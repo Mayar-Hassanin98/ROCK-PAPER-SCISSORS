@@ -1,0 +1,1 @@
+i'm just going to play the game from the browser console, but i will revisit it and add a front end later.
